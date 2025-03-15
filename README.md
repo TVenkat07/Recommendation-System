@@ -70,5 +70,6 @@ This project builds a **Recommendation System** using **Collaborative Filtering*
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/16bba72f-cb08-42b5-8b9e-927e1a68fa30)
 
 
